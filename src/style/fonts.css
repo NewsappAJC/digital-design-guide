@@ -580,7 +580,7 @@
 	}
 	@font-face {
 		font-family: ScoutCond-Black;
-		src: url('fonts/Scout/SCOUNTCOND-BLACKITALIC.OTF');
+		src: url('fonts/Scout/SCOUTCOND-BLACKITALIC.OTF');
 		font-weight:normal;
 		font-style:italic;
 	}
@@ -604,7 +604,7 @@
 	}
 	@font-face {
 		font-family: ScoutCond;
-		src: url('fonts/Scout/SCOUNTCOND-BOLDITALIC.OTF');
+		src: url('fonts/Scout/SCOUTCOND-BOLDITALIC.OTF');
 		font-weight:bold;
 		font-style:italic;
 	}
